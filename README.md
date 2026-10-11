@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:ec4899&height=220&section=header&text=Logitha%20J&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Engineering%20student%20%E2%80%A2%20Game%20dev%20enthusiast%20%E2%80%A2%20Hackathon%20hunter&descSize=18&descAlignY=60" width="100%" alt="Logitha J banner" />
 
-### B.E. Artificial Intelligence & Data Science
+### B.Tech Artificial Intelligence & Data Science
 
 **C &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Python &nbsp;•&nbsp; Game Development &nbsp;•&nbsp; Hackathons**
 
@@ -25,7 +25,7 @@
 | | |
 |---|---|
 | **Name** | Logitha J |
-| **Studying** | B.E. Artificial Intelligence & Data Science |
+| **Studying** | B.Tech. Artificial Intelligence & Data Science |
 | **College** | St. Joseph's College of Engineering, Chennai |
 | **Languages** | C, C++, Python |
 | **Favourite area** | Game development |
@@ -64,7 +64,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    S["🎓 Higher Secondary School<br/>(completed)"] --> B["🏫 B.E. in AI and Data Science<br/>(in progress)"]
+    S["🎓 Higher Secondary School<br/>(completed)"] --> B["🏫 B.Tech. in AI and Data Science<br/>(in progress)"]
     B --> C1["📘 Coursework and fundamentals"]
     B --> C2["🧰 Growing my technical toolset"]
     B --> C3["⚡ Hackathons and game projects"]
